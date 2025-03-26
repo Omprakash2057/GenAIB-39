@@ -13,5 +13,6 @@ https://github.com/Omprakash2057/GenAIB-39/blob/main/Assignment_6(GEN_Ai).ipynb
 
 https://github.com/Omprakash2057/GenAIB-39/blob/main/ASSIGNMENT_7_2_GI.ipynb
 
+https://github.com/Omprakash2057/GenAIB-39/blob/main/ASSIGNMENT_8_1_GI_ipynb.ipynb
 
 https://github.com/Omprakash2057/GenAIB-39/blob/main/ASSIGNMENT_9_1_GI_ipynb.ipynb
